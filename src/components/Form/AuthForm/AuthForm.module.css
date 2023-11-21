@@ -1,0 +1,47 @@
+.form {
+  width: 100%;
+
+  @media screen and (min-width: 768px) {
+    width: 364px;
+  }
+}
+
+.formWrapper {
+  margin-bottom: 28px;
+
+  @media screen and (min-width: 768px) {
+    margin-bottom: 64px;
+  }
+}
+
+
+.messageWrapper {
+  display: flex;
+  align-items: center;
+  margin-bottom: 2px;
+  @media screen and (min-width: 768px) {
+    margin-bottom: 4px;
+  }
+}
+
+
+.buttonEye {
+  position: absolute;
+  top: 15px;
+  left: 90%;
+  background-color: inherit;
+  border: none;
+}
+
+.svgEye {
+  width: 20px;
+  height: 20px;
+  stroke: var(--white);
+}
+
+.link {
+  font-size: 12px;
+  font-feature-settings: "clig" off, "liga" off;
+  line-height: 1.5;
+  text-decoration-line: underline;
+}
