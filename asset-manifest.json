@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DenTest/static/css/main.aecb4f9d.css",
-    "main.js": "/DenTest/static/js/main.519d8a37.js",
+    "main.js": "/DenTest/static/js/main.d8a5b46f.js",
     "static/css/302.8177d80c.chunk.css": "/DenTest/static/css/302.8177d80c.chunk.css",
     "static/js/302.37513341.chunk.js": "/DenTest/static/js/302.37513341.chunk.js",
     "static/css/355.04308807.chunk.css": "/DenTest/static/css/355.04308807.chunk.css",
@@ -35,7 +35,7 @@
     "static/media/thumbIcon.png": "/DenTest/static/media/thumbIcon.06ff8a8bdc626f0847f6.png",
     "index.html": "/DenTest/index.html",
     "main.aecb4f9d.css.map": "/DenTest/static/css/main.aecb4f9d.css.map",
-    "main.519d8a37.js.map": "/DenTest/static/js/main.519d8a37.js.map",
+    "main.d8a5b46f.js.map": "/DenTest/static/js/main.d8a5b46f.js.map",
     "302.8177d80c.chunk.css.map": "/DenTest/static/css/302.8177d80c.chunk.css.map",
     "302.37513341.chunk.js.map": "/DenTest/static/js/302.37513341.chunk.js.map",
     "355.04308807.chunk.css.map": "/DenTest/static/css/355.04308807.chunk.css.map",
@@ -61,6 +61,6 @@
   },
   "entrypoints": [
     "static/css/main.aecb4f9d.css",
-    "static/js/main.519d8a37.js"
+    "static/js/main.d8a5b46f.js"
   ]
 }
