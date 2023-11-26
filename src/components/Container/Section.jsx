@@ -8,7 +8,7 @@ import {
   EXERCISES_ROUTE,
   PASSWORD_ROUTE,
 } from '../../utils/const';
-import StatisticsInfo from '../StatisticsInfo/StatisticsInfo';
+// import StatisticsInfo from '../StatisticsInfo/StatisticsInfo';
 import css from './Section.module.css';
 import { useLocation } from 'react-router-dom';
 import { useParams } from 'react-router-dom';
@@ -17,12 +17,12 @@ import PropTypes from 'prop-types';
 const Section = ({ children }) => {
   const location = useLocation();
   const { id } = useParams();
-  const showStatisticsInfoRoutes = [
-    WELCOME_PAGE_ROUTE,
-    SIGN_UP_ROUTE,
-    SIGN_IN_ROUTE,
-    PASSWORD_ROUTE,
-  ];
+  // const showStatisticsInfoRoutes = [
+  //   WELCOME_PAGE_ROUTE,
+  //   SIGN_UP_ROUTE,
+  //   SIGN_IN_ROUTE,
+  //   PASSWORD_ROUTE,
+  // ];
 
   const styles = {
     [WELCOME_PAGE_ROUTE]: css.WELCOME_PAGE_section,
