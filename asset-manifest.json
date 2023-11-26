@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/perowe/static/css/main.967ffac2.css",
-    "main.js": "/perowe/static/js/main.d471c2fe.js",
+    "main.css": "/perowe/static/css/main.ecefa8da.css",
+    "main.js": "/perowe/static/js/main.56e92369.js",
     "static/css/302.8177d80c.chunk.css": "/perowe/static/css/302.8177d80c.chunk.css",
     "static/js/302.428675f1.chunk.js": "/perowe/static/js/302.428675f1.chunk.js",
     "static/css/355.5dca019a.chunk.css": "/perowe/static/css/355.5dca019a.chunk.css",
@@ -34,8 +34,8 @@
     "static/media/bg-img-mobile-1x-min.jpg": "/perowe/static/media/bg-img-mobile-1x-min.7249529ac06dba1efe07.jpg",
     "static/media/thumbIcon.png": "/perowe/static/media/thumbIcon.06ff8a8bdc626f0847f6.png",
     "index.html": "/perowe/index.html",
-    "main.967ffac2.css.map": "/perowe/static/css/main.967ffac2.css.map",
-    "main.d471c2fe.js.map": "/perowe/static/js/main.d471c2fe.js.map",
+    "main.ecefa8da.css.map": "/perowe/static/css/main.ecefa8da.css.map",
+    "main.56e92369.js.map": "/perowe/static/js/main.56e92369.js.map",
     "302.8177d80c.chunk.css.map": "/perowe/static/css/302.8177d80c.chunk.css.map",
     "302.428675f1.chunk.js.map": "/perowe/static/js/302.428675f1.chunk.js.map",
     "355.5dca019a.chunk.css.map": "/perowe/static/css/355.5dca019a.chunk.css.map",
@@ -60,7 +60,7 @@
     "44.e62c7e37.chunk.js.map": "/perowe/static/js/44.e62c7e37.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.967ffac2.css",
-    "static/js/main.d471c2fe.js"
+    "static/css/main.ecefa8da.css",
+    "static/js/main.56e92369.js"
   ]
 }
