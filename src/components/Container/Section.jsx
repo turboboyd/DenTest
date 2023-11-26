@@ -1,4 +1,3 @@
-import useAuth from 'hooks/useAuth';
 import {
   WELCOME_PAGE_ROUTE,
   PROFILE_ROUTE,
@@ -24,7 +23,7 @@ const Section = ({ children }) => {
     SIGN_IN_ROUTE,
     PASSWORD_ROUTE,
   ];
-    useAuth()
+
   const styles = {
     [WELCOME_PAGE_ROUTE]: css.WELCOME_PAGE_section,
     [SIGN_UP_ROUTE]: css.AUTH_PAGE_section,
@@ -44,7 +43,7 @@ const Section = ({ children }) => {
     <section className={`${css.section}  ${sectionStyle}`}>
       {children}
       {showStatisticsInfoRoutes.includes(location.pathname) && (
-        <StatisticsInfo />
+        {/* <StatisticsInfo /> */}
       )}
     </section>
   );
