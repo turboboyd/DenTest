@@ -42,9 +42,9 @@ const Section = ({ children }) => {
   return (
     <section className={`${css.section}  ${sectionStyle}`}>
       {children}
-      {showStatisticsInfoRoutes.includes(location.pathname) && (
-        {/* <StatisticsInfo /> */}
-      )}
+      {/* {showStatisticsInfoRoutes.includes(location.pathname) && (
+        <StatisticsInfo />
+      )} */}
     </section>
   );
 };
